@@ -32,7 +32,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: https://media.licdn.com/dms/image/C5103AQHuPmYbqhe7Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=liIow8vjuIFeggVmcI38sTwSuDwPWWkanSXmuUPC7VU
+#sidebar_background_image: https://media.licdn.com/dms/image/C5103AQHuPmYbqhe7Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=liIow8vjuIFeggVmcI38sTwSuDwPWWkanSXmuUPC7VU
 
 BASE_PATH:
 
