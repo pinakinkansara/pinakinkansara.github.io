@@ -16,15 +16,15 @@ defaults:
     values:
       title: Pinakin Kansara
 
-description: Stylish Jekyll Theme
+description: Pinakin Kansara
 author:
   name: Pinakin Kansara
   email: pinakin.k.kansara@gmail.com
-  github: dbtek
-  twitter: dbtek
+  github: https://github.com/pinakinkansara
+  twitter: https://twitter.com/KansaraPinakin
   pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  linkedin: https://www.linkedin.com/in/pinakinkansara/
+  bio: Software Engineer @ Matsercard
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
@@ -32,7 +32,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+sidebar_background_image: https://media.licdn.com/dms/image/C5103AQHuPmYbqhe7Xw/profile-displayphoto-shrink_200_200/0?e=1575504000&v=beta&t=liIow8vjuIFeggVmcI38sTwSuDwPWWkanSXmuUPC7VU
 
 BASE_PATH:
 
