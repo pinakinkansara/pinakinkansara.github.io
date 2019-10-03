@@ -62,7 +62,7 @@ article .share .twitter:hover {
 #contact-list li:hover .fa-envelope {
 	color: #E93E30;
 }
-#contact-list li:hover .fa-pinterest {
+#contact-list li:hover .fa-stackoverflow {
 	color: #CC2127;
 }
 #contact-list li:hover .fa-rss {
@@ -188,4 +188,3 @@ footer {
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
-
