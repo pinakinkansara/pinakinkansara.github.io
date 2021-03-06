@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JetPack Compose GridLayout with LazyVerticalFrid
+title: JetPack Compose GridLayout with LazyVerticalGrid
 categories: [Android, Kotlin]
 tags: [JetpackCompose, Android, Kotlin, AndroidStudio]
 description: Jetpack Compose provides very easy api for creating GridView, and that to without need of XML and Adapters ;-)
